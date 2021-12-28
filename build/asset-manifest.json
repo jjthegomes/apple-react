@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/apple-react/static/css/main.ce19a42c.chunk.css",
-    "main.js": "/apple-react/static/js/main.f20dd949.chunk.js",
-    "main.js.map": "/apple-react/static/js/main.f20dd949.chunk.js.map",
+    "main.css": "/apple-react/static/css/main.bf365739.chunk.css",
+    "main.js": "/apple-react/static/js/main.7dc38dc4.chunk.js",
+    "main.js.map": "/apple-react/static/js/main.7dc38dc4.chunk.js.map",
     "runtime-main.js": "/apple-react/static/js/runtime-main.d5abf9f8.js",
     "runtime-main.js.map": "/apple-react/static/js/runtime-main.d5abf9f8.js.map",
     "static/js/2.117c96b8.chunk.js": "/apple-react/static/js/2.117c96b8.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f1cac467.chunk.js": "/apple-react/static/js/3.f1cac467.chunk.js",
     "static/js/3.f1cac467.chunk.js.map": "/apple-react/static/js/3.f1cac467.chunk.js.map",
     "index.html": "/apple-react/index.html",
-    "static/css/main.ce19a42c.chunk.css.map": "/apple-react/static/css/main.ce19a42c.chunk.css.map",
+    "static/css/main.bf365739.chunk.css.map": "/apple-react/static/css/main.bf365739.chunk.css.map",
     "static/js/2.117c96b8.chunk.js.LICENSE.txt": "/apple-react/static/js/2.117c96b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d5abf9f8.js",
     "static/js/2.117c96b8.chunk.js",
-    "static/css/main.ce19a42c.chunk.css",
-    "static/js/main.f20dd949.chunk.js"
+    "static/css/main.bf365739.chunk.css",
+    "static/js/main.7dc38dc4.chunk.js"
   ]
 }
