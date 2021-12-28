@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
 function NoMatch() {
-    return (
-        <div>
-            <h1>404 not found</h1>
-        </div>
-    );
+  return (
+    <div>
+      <p style={{ fontSize: 24, textAlign: "center" }}>404 not found</p>
+    </div>
+  );
 }
 
 export default NoMatch;

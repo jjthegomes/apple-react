@@ -12,9 +12,10 @@ interface RouteModel extends RouteProps {
 
 const rotas: RouteModel[] = [
   ...Auth,
-  { path: '/', component: Home, },
-  { path: '/product/:id', component: ProductDetail, },
-  { path: '*', component: NoMatch }, //default
+  { path: "/", component: Home },
+  { path: "/product/:id", component: ProductDetail },
+  // { path: '*', component: NoMatch }, //default
+  { path: "*", component: Home },
 ];
 
 export default rotas;
