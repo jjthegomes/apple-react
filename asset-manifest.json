@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/apple-react/static/css/main.bf365739.chunk.css",
-    "main.js": "/apple-react/static/js/main.679fd5c3.chunk.js",
-    "main.js.map": "/apple-react/static/js/main.679fd5c3.chunk.js.map",
-    "runtime-main.js": "/apple-react/static/js/runtime-main.d5abf9f8.js",
-    "runtime-main.js.map": "/apple-react/static/js/runtime-main.d5abf9f8.js.map",
-    "static/js/2.117c96b8.chunk.js": "/apple-react/static/js/2.117c96b8.chunk.js",
-    "static/js/2.117c96b8.chunk.js.map": "/apple-react/static/js/2.117c96b8.chunk.js.map",
-    "static/js/3.f1cac467.chunk.js": "/apple-react/static/js/3.f1cac467.chunk.js",
-    "static/js/3.f1cac467.chunk.js.map": "/apple-react/static/js/3.f1cac467.chunk.js.map",
+    "main.css": "/apple-react/static/css/main.4e6e87ab.css",
+    "main.js": "/apple-react/static/js/main.7e250868.js",
+    "static/js/787.aa9f1129.chunk.js": "/apple-react/static/js/787.aa9f1129.chunk.js",
     "index.html": "/apple-react/index.html",
-    "static/css/main.bf365739.chunk.css.map": "/apple-react/static/css/main.bf365739.chunk.css.map",
-    "static/js/2.117c96b8.chunk.js.LICENSE.txt": "/apple-react/static/js/2.117c96b8.chunk.js.LICENSE.txt"
+    "main.4e6e87ab.css.map": "/apple-react/static/css/main.4e6e87ab.css.map",
+    "main.7e250868.js.map": "/apple-react/static/js/main.7e250868.js.map",
+    "787.aa9f1129.chunk.js.map": "/apple-react/static/js/787.aa9f1129.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5abf9f8.js",
-    "static/js/2.117c96b8.chunk.js",
-    "static/css/main.bf365739.chunk.css",
-    "static/js/main.679fd5c3.chunk.js"
+    "static/css/main.4e6e87ab.css",
+    "static/js/main.7e250868.js"
   ]
 }
