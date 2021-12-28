@@ -2,7 +2,7 @@
 import Home from "../pages/Home";
 import ProductDetail from "../pages/ProductDetail";
 import Auth from "./auth.routes";
-import NoMatch from "../pages/NoMatch";
+// import NoMatch from "../pages/NoMatch";
 import { RouteProps } from "react-router";
 
 interface RouteModel extends RouteProps {
